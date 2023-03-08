@@ -14,13 +14,13 @@ const Token = memo(() => {
               <div class="col-md-6 col-sm-12">
                 <div class="pr_box">
                   <h6>Starting time :</h6>
-                  <p>Mar 15, 2023 (Monday 9:00 AM)</p>
+                  <p>Mar 10, 2023 </p>
                 </div>
               </div>
               <div class="col-md-6 col-sm-12">
                 <div class="pr_box">
                   <h6>Ending time :</h6>
-                  <p>June 15, 2023 (Monday 9:00 AM)</p>
+                  <p>June 10, 2023 </p>
                 </div>
               </div>
               <div class="col-md-6 col-sm-12">
