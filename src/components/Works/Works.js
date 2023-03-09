@@ -9,10 +9,11 @@ const Works = memo(() => {
           <div class="title_light">
             <h2>How it Works?</h2>
             <p>
-              Basically, it is a social network, where you create posts but on here, when you like a post, or get a like to your post, you get rewarded, in VOILK cryptocurrency.
+              Basically, it is a social network, where you can create posts, share photos, comment, like, follow etc, 
+              but the difference is that when you like a post, or get a like to your post, you get rewarded, in VOILK cryptocurrency.
             </p>
-            <p>Unlike Bitcoin, Voilk's miners get only 15% of the block reward, rest of the reward is added to the community's reward pool, 
-              which users, distribute among themselves, with the power of their likes.
+            <p>unlike Bitcoin, Voilk's miners get only 15% of the block reward, rest of the reward is added to the community's reward pool, 
+              which users like you, distribute with the power of their likes.
             </p>
             <p>
               Users who have more staked VOILKs(aka Power) in their wallets, direct more rewards from the pool, towards their favorite posts.  

@@ -43,7 +43,7 @@ const About = memo(() => {
               <div class="benefit_box">
                 <img src="assets/images/case.png" alt="token" />
                 <h6>Social</h6>
-                <p>Voilk also support, content share platform, which is blog style user interface. Which can be be used to create content, trade in the market, transfer funds and more.</p>
+                <p>Voilk also supports, content sharing platform, which is a user interface that you can use to create content, trade in the market, transfer funds and more.</p>
           <a href="https://social.voilk.com" class="btn btn-primary">Visit.. <i class="ion-ios-arrow-thin-right"></i></a>
               
               </div>
@@ -52,7 +52,7 @@ const About = memo(() => {
               <div class="benefit_box">
                 <img src="assets/images/payment.png" alt="payment" />
                 <h6>Voilk App</h6>
-                <p>Voilk provides it's user an app, only for android users though, which can be downloaded from the google's playstore. It is fully featured app, helps with all actions.</p>
+                <p>Voilk provides it's users an app, only for the android users though, which can be downloaded from the google's playstore. It is fully featured app, helps with all actions.</p>
           <a href="https://play.google.com/store/apps/details?id=com.voilkapp" class="btn btn-primary">Visit.. <i class="ion-ios-arrow-thin-right"></i></a>
               
               </div>

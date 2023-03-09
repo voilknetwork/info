@@ -23,8 +23,8 @@ const Road = memo(() => {
                   <span>AirDrop Program</span>
                   <h2>You can't invest?</h2>
                   <p>We can understand, many people, can't invest money, 
-                    because of several reasons, but still want to be a part of the project,
-                    so we have developed a special airDrop program for you, 
+                    because of several reasons, but still want to grab some VOILKs,
+                    so only for you, we have developed a special airDrop program, 
                     don't think we don't need you. Infact we need you the most :)</p>
                   
                   <ul class="list_none chart_list">

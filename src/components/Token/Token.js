@@ -95,8 +95,7 @@ const Token = memo(() => {
               <li class="color2">Social consensus algorithm</li>
               <li class="color2">Several user interfaces</li>
               <li class="color2">App on playstore</li>
-              <li class="color2">Several Wallets</li>
-              <li class="color2">Mining rewards,when you get likes</li>
+              <li class="color2">Mining rewards, without expensive hardware.</li>
               <li class="color2">Airdrops - Get Voilks without investing</li>
               <li class="color2">20 Million Coin Supply</li>
               <li class="color2">1 VOILK = $1</li>
