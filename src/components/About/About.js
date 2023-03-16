@@ -9,7 +9,7 @@ const About = memo(() => {
               <div class="title_light">
                 <span>What is Swaper?</span>
                 <h2>About The Swaper</h2>
-                <p>Swaper is a specially designed software, to facilitate, preSale/ICO program, AirDrop program and to help the users, to easily swap their VOILKs with USDT back and forth. </p>
+                <p>Swaper is a specially designed web3 wallet for the VOILK20 token. </p>
                 <p>Swaper is a four in one application, It lists all the apps, It hosts the ICO program, It hosts the Airdrop Program and It can swap your USDTs for VOILK20 tokens, back and forth.
                   It uses MetaMask extension, to connect to the binance smart chain to complete the swaps.
                 </p>
