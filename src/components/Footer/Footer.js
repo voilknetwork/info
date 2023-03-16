@@ -16,10 +16,11 @@ const Footer = memo(() => {
           <div class="col-xl-6 col-lg-6 col-sm-12 res_lg_mb_50 res_sm_mb_40">
             <div class="newsletter_form newslattter_small">
               <h4 class="footer_title">What is Voilk?</h4>
-              <p>Voilk is a blockchain based, decentralized, rewarding, Crypto Social Network.</p>
+              <p>Voilk is a blockchain based, decentralized, rewarding, Crypto Social Network, fueled by the VOILK and VSD(Voilk's Stable Dollar) cryptocurrencies.</p>
               <p>
-                Market1: <a href="https://voilk.com/market">Olympus Market</a><br />
-                Market2: <a href="https://social.voilk.com/market">Social Market</a>
+                <a className='text-info' href="https://swaper.voilk.com">Swaper</a><br />
+                <a className='text-primary' href="https://voilk.com/market">Olympus Market</a><br />
+                <a className='text-success' href="https://social.voilk.com/market">Social Market</a>
               </p>
             </div>
 

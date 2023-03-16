@@ -10,7 +10,7 @@ const Home = memo(() => {
                 <div class="banner_text">
                     <h1><span>Voilk</span> World's First</h1>
                     <h3>Crypto Social Network!</h3>
-                    <p>Voilk is a blockchain based, decentralized, rewarding, crypto social network, Where you get rewarded in VOILK cryptocurrency, from every like that you give or receive to a post.</p>
+                    <p>Voilk is a blockchain based, decentralized, rewarding, crypto social network, Where you get rewarded in VOILK cryptocurrency, on every like that you give or receive to a post.</p>
                     <p>Voilk rewards it's users, in a unique, decentralized way, where distribution of the rewards is directly in the hands of the users, without any need for a central controlling authority.</p>
                     <div class="banner_btn">
                         <a href="https://voilk.com/whitepaper.pdf" class="btn btn-default page-scroll nav-link">Whitepapter <i class="ion-ios-arrow-thin-right"></i></a>

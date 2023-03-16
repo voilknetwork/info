@@ -19,13 +19,14 @@ const White = memo(() => {
             <div class="row">
               <div class="col-md-7 col-lg-6 offset-lg-1">
                 <p> 
-                  Feel free to contact us, at any time you want, using our social media accounts. 
-                  You can also reach to us by email.
+                  Feel free to contact us, at any time you want, using our social media accounts or 
+                  by email. 
+          
                   <br />
                   <br />
 
-                  Keep in mind, that if you lost your KeyFile, we cannot recover your account, 
-                  it's blockchain based project, and only you can control your account, using your private keys.
+                  Keep in mind, that if you lost your KeyFile or Master Password, your account will be permanently lost and no one can recover it. 
+                  it's blockchain based web3 project and only you can control your account, using your private keys.
                 </p>
               </div>
               <div class="col-lg-5 col-md-5 res_sm_mt_30">
@@ -36,6 +37,11 @@ const White = memo(() => {
                       <span>Discord</span>
                       <p>
                         <a href='https://discord.gg/KSBNcDpjDR'>https://discord.gg/KSBNcDpjDR</a>
+                      </p>
+                      <span>Telegram</span>
+                      <p>
+                        <a href='https://t.me/voilkers'>https://t.me/voilkers</a><br />
+                        <a href='https://t.me/voilkchatgroup'>https://t.me/voilkchatgroup</a>
                       </p>
                     </div>
                   </li>
